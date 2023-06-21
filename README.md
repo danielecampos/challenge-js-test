@@ -4,15 +4,18 @@
 No terminal, execute os comandos:
 
 ```bash
-cd javascript
-yarn
+cd rdstation-challenge
+yarn install
 yarn test
 ```
 
 Ou usando o NPM:
 
 ```bash
-cd javascript
+cd rdstation-challenge
 npm install
-npm test
+npm run test
 ```
+
+Bibliotecas usadas: 
+- https://jestjs.io/pt-BR/
